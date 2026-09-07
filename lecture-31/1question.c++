@@ -6,7 +6,9 @@ private:
     int marks;
 
 public:
+  
     // Constructor
+
     Student(int m) {
         marks = m;
     }
